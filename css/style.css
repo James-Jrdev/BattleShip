@@ -1,0 +1,19 @@
+body{
+    background-color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+
+.square{
+  height: 150px;
+  width: 150px;
+  border: 2px solid black;
+
+}
+
+#gameboard{
+  display: flex;
+  flex-wrap: wrap;
+  width: 700px;
+}
